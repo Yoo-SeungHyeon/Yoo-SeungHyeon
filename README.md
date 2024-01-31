@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h2>많이 사용한 언어</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoo-SeungHyeon)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoo-SeungHyeon&layout=compact"><br><br>
 
 <h2>평판</h2>
 
