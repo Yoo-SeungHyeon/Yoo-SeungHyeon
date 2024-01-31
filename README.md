@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning ...
+https://img.shields.io/badge/python-%233776AB
+
 
 <h2>많이 사용한 언어</h2>
 
