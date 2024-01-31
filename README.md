@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<h2>많이 사용한 언어</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoo-SeungHyeon)](https://github.com/anuraghazra/github-readme-stats)
 
+<h2>평판</h2>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoo-SeungHyeon)](https://github.com/anuraghazra/github-readme-stats)
 
+<h2>대시보드</h2>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yoo-SeungHyeon&locale=ko)](https://git.io/streak-stats)
