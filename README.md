@@ -1,4 +1,4 @@
-### Hi there 👋
+### Data Engineer를 준비중인 Yoo SeungHyeon 입니다. 👋
 
 <!--
 **Yoo-SeungHyeon/Yoo-SeungHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning ...
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%Yoo-SeungHyeon)]        
+
 
 <h2>많이 사용한 언어</h2>
 
