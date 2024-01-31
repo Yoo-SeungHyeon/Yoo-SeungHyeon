@@ -16,12 +16,7 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning ...
 <div>
-  <img src = "https://img.shields.io/badge/python-%233776AB"/>
-  ![Static Badge](https://img.shields.io/badge/django-%23092E20)
-  ![Static Badge](https://img.shields.io/badge/react-%2361DAFB)
-  ![Static Badge](https://img.shields.io/badge/tensorflow-%23FF6F00)
-  ![Static Badge](https://img.shields.io/badge/nginx-%23009639)
-  ![Static Badge](https://img.shields.io/badge/spring-%236DB33F)
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=flat&logo=python&logoColor=white">
 
 </div>
 
