@@ -16,8 +16,31 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning ...
 <div>
+<p>Backend</p>
   <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=flat&logo=python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/django-%23092E20?style=flat&logo=django&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white">
 
+  <img alt="Static Badge" src="https://img.shields.io/badge/spring-%236DB33F?style=flat&logo=spring&logoColor=white">
+
+<p>Frontend</p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/react-%2361DAFB?style=flat&logo=react&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/nginx-%23009639?style=flat&logo=nginx&logoColor=white">
+
+<p>DB</p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=flat&logo=mysql&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/sqlite-%23003B57?style=flat&logo=sqlite&logoColor=white">
+
+<p>Infra</p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F05032?style=flat&logo=git&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=flat&logo=github&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/githubactions-%232088FF?style=flat&logo=githubactions&logoColor=white">
+
+  <img alt="Static Badge" src="https://img.shields.io/badge/docker-%232496ED?style=flat&logo=docker&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white">
+
+
+  
 </div>
 
 
