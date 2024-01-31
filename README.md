@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning ...
-<img src = "https://img.shields.io/badge/python-%233776AB"/>
+<div>
+  <img src = "https://img.shields.io/badge/python-%233776AB"/>
+
+</div>
 
 
 <h2>많이 사용한 언어</h2>
