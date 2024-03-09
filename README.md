@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <div>
 <p>Backend</p>
   <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=flat&logo=python&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white">
 
 <p>Frontend</p>
   <img alt="Static Badge" src="https://img.shields.io/badge/nginx-%23009639?style=flat&logo=nginx&logoColor=white">
