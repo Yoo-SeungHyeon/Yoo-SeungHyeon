@@ -32,7 +32,6 @@ Here are some ideas to get you started:
   <img alt="Static Badge" src="https://img.shields.io/badge/githubactions-%232088FF?style=flat&logo=githubactions&logoColor=white">
 
   <img alt="Static Badge" src="https://img.shields.io/badge/docker-%232496ED?style=flat&logo=docker&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white">
 
 
   
