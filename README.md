@@ -1,5 +1,15 @@
 ### Data Engineer를 준비중인 Yoo SeungHyeon 입니다. 👋
 
+## Introduction ##
+안녕하세요. 
+데이터 엔지니어를 준비중인 학생입니다.
+최근 관심을 가지고 보고 있는 분야는 AWS입니다. 
+인프라를 공부한 후 bernetes까지 공부할 예정입니다.
+최종적으로는 데이터 처리 서버를 Kubernetes를 통해 유동적으로 운영하는 것 입니다.
+
+## Career ##
+- 영남대학교 통계학과 4학년
+
 <!--
 **Yoo-SeungHyeon/Yoo-SeungHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
