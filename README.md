@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ...
 <div>
 <p>Backend</p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 <p>Frontend</p>
   <img alt="Static Badge" src="https://img.shields.io/badge/nginx-%23009639?style=flat&logo=nginx&logoColor=white">
