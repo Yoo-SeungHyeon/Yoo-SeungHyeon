@@ -1,6 +1,7 @@
 # Data Engineer를 준비중인 Yoo SeungHyeon 입니다. 👋
 <br>
 <br>
+
 ## Introduction ##
 안녕하세요. 
 데이터 엔지니어를 준비중인 학생입니다.
@@ -9,6 +10,7 @@
 최종적으로는 데이터 처리 서버를 Kubernetes를 통해 유동적으로 운영하는 것 입니다.
 <br>
 <br>
+
 ## Career ##
 - 영남대학교 통계학과 4학년
 🌱 I’m currently learning ...
