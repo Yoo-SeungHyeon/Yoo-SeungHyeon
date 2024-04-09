@@ -22,6 +22,7 @@
 <h2>사용중인 기술</h2>
 <h4><strong>Programming Language</strong></h4>
 <img src="https://img.shields.io/badge/-Python-%233776AB?style=plastic&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-R-%23276DC3?style=plastic&logo=r&logoColor=white">
 <h4>  </h4>
 <h4><strong>Data Engineering</strong></h4>
 <img src="https://img.shields.io/badge/-Airflow-%23017CEE?style=plastic&logo=apacheairflow&logoColor=white">
@@ -45,8 +46,7 @@
 <img src="https://img.shields.io/badge/-Amazon EC2-%23FF9900?style=plastic&logo=amazonec2&logoColor=white">
 <h1></h1>
 <h4><strong>공부 예정</strong></h4>
-<img src="https://img.shields.io/badge/-R-%23276DC3?style=plastic&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/-Spark-%23E25A1C?style=plastic&logo=apachespark&logoColor=white">
+<img src="https://img.shields.io/badge/-Apache%20Spark-%23E25A1C?style=plastic&logo=apachespark&logoColor=white">
 <img src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=plastic&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/-Amazon%20S3-%23569A31?style=plastic&logo=amazons3&logoColor=white">
 <img src="https://img.shields.io/badge/-Apache%20Hadoop-%2366CCFF?style=plastic&logo=apachehadoop&logoColor=white">
