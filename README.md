@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 <p>Frontend</p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/nginx-%23009639?style=flat&logo=nginx&logoColor=white">
+  [<img alt="Static Badge" src="https://img.shields.io/badge/nginx-%23009639?style=flat&logo=nginx&logoColor=white">](https://img.shields.io/badge/-svelte-%23FF3E00?style=plastic&logo=Svelte&logoColor=white)
 
 <p>DB</p>
   <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=flat&logo=mysql&logoColor=white">
