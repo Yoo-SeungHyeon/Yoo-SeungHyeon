@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <div>
-<h3>사용중인 기술</h3>
+<h1>사용중인 기술</h1>
 <h4><strong>Programming Language</strong></h4>
 <img src="https://img.shields.io/badge/-Python-%233776AB?style=plastic&logo=python&logoColor=white">
 <h4>  </h4>
