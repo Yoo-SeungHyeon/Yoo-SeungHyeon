@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning ...
 <div>
+  <pre>
 <h3>사용중인 기술</h3>
   
 <h4>Programming Language</h4>
@@ -58,6 +59,7 @@ Here are some ideas to get you started:
   <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/GitHub Actions-%232088FF?style=flat&logo=githubactions&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white">
+  </pre>
 </div>
 
 <h3>공부 예정</h3>
