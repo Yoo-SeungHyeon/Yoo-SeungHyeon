@@ -43,8 +43,11 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub Actions-%232088FF?style=flat&logo=githubactions&logoColor=white">
+  <p> </p>
 <img alt="Static Badge" src="https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white">
+  <p> </p>
 <img src="https://img.shields.io/badge/-Amazon EC2-%23FF9900?style=plastic&logo=amazonec2&logoColor=white">
+  <p> </p>
 <img src="https://img.shields.io/badge/-Linux-%23FCC624?style=plastic&logo=linux&logoColor=white">
 <h1></h1>
 <h4><strong>공부 예정</strong></h4>
