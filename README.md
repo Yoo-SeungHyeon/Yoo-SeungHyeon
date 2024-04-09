@@ -26,15 +26,24 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning ...
 <div>
-<p>Programming Language</p>
-  <img src="https://img.shields.io/badge/-python-%233776AB?style=plastic&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-r-%23276DC3?style=plastic&logo=r&logoColor=white">
+<h3>사용중인 기술</h3>
   
-<p>Backend</p>
-  <img src="https://img.shields.io/badge/-fastapi-%23009688?style=plastic&logo=fastapi&logoColor=white">
+<h4>Programming Language</h4>
+  <img src="https://img.shields.io/badge/-python-%233776AB?style=plastic&logo=python&logoColor=white">
 
-<p>Frontend</p>
-  <img src="https://img.shields.io/badge/-svelte-%23FF3E00?style=plastic&logo=Svelte&logoColor=white">
+<p>Data Engineering</p>
+  <img src="https://img.shields.io/badge/-apacheairflow-%23017CEE?style=plastic&logo=apacheairflow&logoColor=white">
+
+<hr>
+<h4>WEB</h4>
+  
+&nbsp; <p>Frontend</p>
+&nbsp;  <img src="https://img.shields.io/badge/-svelte-%23FF3E00?style=plastic&logo=Svelte&logoColor=white">
+  
+&nbsp; <p>Backend</p>
+&nbsp;  <img src="https://img.shields.io/badge/-fastapi-%23009688?style=plastic&logo=fastapi&logoColor=white">
+<hr>
+
 
 
 <p>DB</p>
@@ -48,10 +57,11 @@ Here are some ideas to get you started:
   <img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=flat&logo=github&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/githubactions-%232088FF?style=flat&logo=githubactions&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/docker-%232496ED?style=flat&logo=docker&logoColor=white">
-
-
-  
 </div>
+
+<h3>공부 예정</h3>
+<img src="https://img.shields.io/badge/-R-%23276DC3?style=plastic&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/-Spark-%23E25A1C?style=plastic&logo=apachespark&logoColor=white">
 
 
 <h2>많이 사용한 언어</h2>
