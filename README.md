@@ -31,11 +31,14 @@ Here are some ideas to get you started:
 <h4>Programming Language</h4>
   <img src="https://img.shields.io/badge/-Python-%233776AB?style=plastic&logo=python&logoColor=white">
 
+
 <p>Data Engineering</p>
   <img src="https://img.shields.io/badge/-Airflow-%23017CEE?style=plastic&logo=apacheairflow&logoColor=white">
 
+
 <p>Frontend</p>
 <img src="https://img.shields.io/badge/-Svelte-%23FF3E00?style=plastic&logo=Svelte&logoColor=white">
+
   
 <p>Backend</p>
 <img src="https://img.shields.io/badge/-FastAPI-%23009688?style=plastic&logo=fastapi&logoColor=white">
@@ -48,6 +51,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=plastic&logo=postgresql&logoColor=white">
+
 
 <p>Infra</p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white">
