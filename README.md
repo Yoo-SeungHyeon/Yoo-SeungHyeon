@@ -47,11 +47,13 @@
 <img src="https://img.shields.io/badge/-Amazon EC2-%23FF9900?style=plastic&logo=amazonec2&logoColor=white">
 <h1></h1>
 <h4><strong>공부 예정</strong></h4>
-<img src="https://img.shields.io/badge/-Apache%20Spark-%23E25A1C?style=plastic&logo=apachespark&logoColor=white">
 <img src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=plastic&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/-Amazon%20S3-%23569A31?style=plastic&logo=amazons3&logoColor=white">
+  <p> </p>
+<img src="https://img.shields.io/badge/-Apache%20Spark-%23E25A1C?style=plastic&logo=apachespark&logoColor=white">
 <img src="https://img.shields.io/badge/-Apache%20Hadoop-%2366CCFF?style=plastic&logo=apachehadoop&logoColor=white">
 <img src="https://img.shields.io/badge/-Apache%20Kafka-%23231F20?style=plastic&logo=apachekafka&logoColor=white">
+  <p> </p>
 <img src="https://img.shields.io/badge/-Kubernetes-%23326CE5?style=plastic&logo=kubernetes&logoColor=white">
 </div>
 <br>
