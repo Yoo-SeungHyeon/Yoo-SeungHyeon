@@ -52,6 +52,7 @@
 <h1></h1>
 <h4><strong>공부 예정</strong></h4>
 <img src="https://img.shields.io/badge/-Scala-%23DC322F?style=plastic&logo=scala&logoColor=white">
+  <p> </p>
 <img src="https://img.shields.io/badge/-Redis-%23DC382D?style=plastic&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=plastic&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=plastic&logo=postgresql&logoColor=white">
