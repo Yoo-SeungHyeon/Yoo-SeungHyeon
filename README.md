@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <br>
   <pre>
 <h3>사용중인 기술</h3>
+    <hr>
   
 <h4>Programming Language</h4>
   <img src="https://img.shields.io/badge/-Python-%233776AB?style=plastic&logo=python&logoColor=white">
