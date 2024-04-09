@@ -23,6 +23,7 @@
 <h4><strong>Programming Language</strong></h4>
 <img src="https://img.shields.io/badge/-Python-%233776AB?style=plastic&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-R-%23276DC3?style=plastic&logo=r&logoColor=white">
+[Java]
 <h4>  </h4>
 <h4><strong>Data Engineering</strong></h4>
 <img src="https://img.shields.io/badge/-Airflow-%23017CEE?style=plastic&logo=apacheairflow&logoColor=white">
