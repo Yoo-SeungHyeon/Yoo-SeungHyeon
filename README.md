@@ -26,7 +26,7 @@
 [Java]
 <h4>  </h4>
 <h4><strong>Data Engineering</strong></h4>
-<img src="https://img.shields.io/badge/-Airflow-%23017CEE?style=plastic&logo=apacheairflow&logoColor=white">
+<img src="https://img.shields.io/badge/-Apache%20Airflow-%23017CEE?style=plastic&logo=apacheairflow&logoColor=white">
 <h4>  </h4>
 <h4><strong>Frontend</strong></h4>
 <img src="https://img.shields.io/badge/-Svelte-%23FF3E00?style=plastic&logo=Svelte&logoColor=white">
