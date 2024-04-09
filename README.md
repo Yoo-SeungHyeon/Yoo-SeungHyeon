@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ...
 <br>
 <br>
-  <pre>
+<div>
 <h3>사용중인 기술</h3>
 <strong>Programming Language</strong>
 <img src="https://img.shields.io/badge/-Python-%233776AB?style=plastic&logo=python&logoColor=white">
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-R-%23276DC3?style=plastic&logo=r&logoColor=white">
 <img src="https://img.shields.io/badge/-Spark-%23E25A1C?style=plastic&logo=apachespark&logoColor=white">
 <img src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=plastic&logo=postgresql&logoColor=white">
-</pre>
+</div>
     
 
 <h2>많이 사용한 언어</h2>
