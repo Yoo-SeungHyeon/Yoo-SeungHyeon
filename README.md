@@ -1,4 +1,4 @@
-### Data Engineer를 준비중인 Yoo SeungHyeon 입니다. 👋
+# Data Engineer를 준비중인 Yoo SeungHyeon 입니다. 👋
 
 ## Introduction ##
 안녕하세요. 
@@ -9,26 +9,11 @@
 
 ## Career ##
 - 영남대학교 통계학과 4학년
-
-<!--
-**Yoo-SeungHyeon/Yoo-SeungHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 🌱 I’m currently learning ...
 <br>
 <br>
 <div>
-<h1>사용중인 기술</h1>
+<h2>사용중인 기술</h2>
 <h4><strong>Programming Language</strong></h4>
 <img src="https://img.shields.io/badge/-Python-%233776AB?style=plastic&logo=python&logoColor=white">
 <h4>  </h4>
