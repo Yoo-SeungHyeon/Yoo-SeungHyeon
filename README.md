@@ -77,10 +77,10 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=mariadb&logoColor=%23003545&label=mariaDB">
 
 **분산 아키텍쳐**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apacheairflow&logoColor=%23017CEE&label=apache Airflow">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apachespark&logoColor=%23E25A1C&label=apache Spark">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apachehadoop&logoColor=%2366CCFF&label=apache Hadoop">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apachekafka&logoColor=%23231F20&label=apache Kafka">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apacheairflow&logoColor=%23017CEE&label=Apache Airflow">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apachespark&logoColor=%23E25A1C&label=Apache Spark">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apachehadoop&logoColor=%2366CCFF&label=Apache Hadoop">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apachekafka&logoColor=%23231F20&label=Apache Kafka">
 
 **인프라**
 <img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazondynamodb&logoColor=%234053D6&label=amazon DynamoDB">
