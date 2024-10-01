@@ -41,7 +41,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazons3&logoColor=%23569A31&label=amazon S3">
 <img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonrds&logoColor=%23527FFF&label=amazon RDS">
 <img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonroute53&logoColor=%238C4FFF&label=amazon Route53">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=awselasticloadbalancing&logoColor=%238C4FFF&label=aws ELB">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=awselasticloadbalancing&logoColor=%238C4FFF&label=amazon ELB">
 
 **협업 도구**
 <img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=git&logoColor=%23F05032&label=git">
