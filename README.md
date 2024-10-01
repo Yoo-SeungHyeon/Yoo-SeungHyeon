@@ -86,7 +86,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazondynamodb&logoColor=%234053D6&label=amazonDynamoDB">
 <img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonecs&logoColor=%23FF9900&label=amazonECS">
 <img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazoneks&logoColor=%23FF9900&label=amazonEKS">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonapigateway&logoColor=%23FF4F8B&label=amazonApigateway">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonapigateway&logoColor=%23FF4F8B&label=amazonAPIGateway">
 <img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonsqs&logoColor=%23FF4F8B&label=amazonSQS">
 <img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=terraform&logoColor=%23844FBA&label=terraform">
 
