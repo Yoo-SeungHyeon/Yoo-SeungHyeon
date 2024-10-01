@@ -36,12 +36,12 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=mysql&logoColor=%234479A1&label=MySQL">
 
 **인프라(AWS)**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonec2&logoColor=%23FF9900&label=amazonEC2">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=awslambda&logoColor=%23FF9900&label=awsLambda">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazons3&logoColor=%23569A31&label=amazonS3">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonrds&logoColor=%23527FFF&label=amazonRDS">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonroute53&logoColor=%238C4FFF&label=amazonRoute53">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=awselasticloadbalancing&logoColor=%238C4FFF&label=awseLB">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonec2&logoColor=%23FF9900&label=amazon EC2">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=awslambda&logoColor=%23FF9900&label=aws Lambda">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazons3&logoColor=%23569A31&label=amazon S3">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonrds&logoColor=%23527FFF&label=amazon RDS">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonroute53&logoColor=%238C4FFF&label=amazon Route53">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=awselasticloadbalancing&logoColor=%238C4FFF&label=aws ELB">
 
 **협업 도구**
 <img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=git&logoColor=%23F05032&label=git">
