@@ -77,17 +77,17 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=mariadb&logoColor=%23003545&label=mariaDB">
 
 **분산 아키텍쳐**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apacheairflow&logoColor=%23017CEE&label=apacheAirflow">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apachespark&logoColor=%23E25A1C&label=apacheSpark">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apachehadoop&logoColor=%2366CCFF&label=apacheHadoop">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apachekafka&logoColor=%23231F20&label=apacheKafka">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apacheairflow&logoColor=%23017CEE&label=apache Airflow">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apachespark&logoColor=%23E25A1C&label=apache Spark">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apachehadoop&logoColor=%2366CCFF&label=apache Hadoop">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apachekafka&logoColor=%23231F20&label=apache Kafka">
 
 **인프라**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazondynamodb&logoColor=%234053D6&label=amazonDynamoDB">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonecs&logoColor=%23FF9900&label=amazonECS">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazoneks&logoColor=%23FF9900&label=amazonEKS">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonapigateway&logoColor=%23FF4F8B&label=amazonAPIGateway">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonsqs&logoColor=%23FF4F8B&label=amazonSQS">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazondynamodb&logoColor=%234053D6&label=amazon DynamoDB">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonecs&logoColor=%23FF9900&label=amazon ECS">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazoneks&logoColor=%23FF9900&label=amazon EKS">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonapigateway&logoColor=%23FF4F8B&label=amazon APIGateway">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonsqs&logoColor=%23FF4F8B&label=amazon SQS">
 <img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=terraform&logoColor=%23844FBA&label=terraform">
 
 **컨테이너 도구**
