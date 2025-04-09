@@ -40,45 +40,18 @@
 | 📊 **데이터 분석** | <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/> |
 | 🗄️ **DB** | <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/> |
 | ☁️ **Infra** | <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/> |
-| 🔁 **분산처리 입문** | <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/-Flink-E6522C?style=flat&logo=apacheflink&logoColor=white"/> |
-
-<details>
-<summary>📌 기술별 활용 역량 자세히 보기</summary>
-
-### 🐍 Python / Data
-- <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/> 를 활용한 통계 분석, EDA, 데이터 전처리 가능  
-- <img src="https://img.shields.io/badge/-Matplotlib-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white"/> 을 활용한 정제된 시각화 수행
-
-### 🌐 FastAPI / Django
-- <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/> 기반 REST API 설계 및 Pydantic 검증  
-- <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/> 로 소셜 로그인, 인증, ORM 모델링 구현 경험
-
-### 🤖 ML / AI
-- <img src="https://img.shields.io/badge/-YOLOv8-000000?style=flat&logo=github&logoColor=white"/> 튜닝 및 객체 인식 문제 해결  
-- <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> 앙상블(XGBoost, CatBoost) 모델 기반 분류/회귀 수행  
-- RAG 기반 NLP 응용 및 MLOps 구조 설계 중
-
-### ☁️ AWS & DevOps
-- <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/> EC2 + S3 + ALB 활용 HTTPS 배포  
-- <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/> 컨테이너 기반 환경 구성 및 <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/> CI 설정 경험
-
-### 🤝 협업 및 팀 리딩
-- 다양한 프로젝트에서 PM 또는 팀장 역할 수행  
-- 과거 학원 보조 강사 경험이 발표력·소통력 향상에 도움이 되었음  
-- Git Flow 전략 기반의 팀 협업 경험 다수
-
-</details>
+| 🔁 **분산처리 (입문)** | <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/-Flink-E6522C?style=flat&logo=apacheflink&logoColor=white"/> |
 
 ---
 
 ## 🏅 자격 및 활동
 
-- 🏆 ADsP, SQLD 자격증 보유  
-- 📚 빅데이터 분석기사, 정보처리기사 준비 중  
 - 📌 SSAFY 13기 데이터 트랙 수강 중 (2025.01~)  
-- 🥇 “It’s DGB, I’m Challenger” 공모전 결선 진출  
-- ☁️ 메가존 클라우드 디지털 인재 양성과정 수료  
 - 🎓 통계학과 · 컴퓨터공학과 복수전공 졸업 (영남대학교)
+- 📚 빅데이터 분석기사, 정보처리기사 준비 중  
+- 🏆 ADsP, SQLD 자격증 보유  
+- ☁️ 메가존 클라우드 디지털 인재 양성과정 수료  
+- 🥇 “It’s DGB, I’m Challenger” 공모전 결선 진출  
 
 ---
 
