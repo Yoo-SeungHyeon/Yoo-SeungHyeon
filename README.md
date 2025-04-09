@@ -1,124 +1,89 @@
-<br>
+# 👋 유승현 | SeungHyeon Yoo
 
-<h1> "빨리 가려면 혼자 가고, 멀리 가려면 함께 가라." </h1>
+> "빨리 가려면 혼자 가고, 멀리 가려면 함께 가라."
 
-<br>
+데이터 기반 사고력과 시스템 구현 역량을 함께 갖춘 **통계 + 컴공 융합형 인재**입니다.  
+삼성청년SW아카데미(SSAFY)에서 백엔드, 데이터 파이프라인, 인공지능 응용 기술을 학습하며  
+**실제 운영 경험이 있는 프로젝트 중심**으로 실무 역량을 확장하고 있습니다.
 
-## 소개
-<strong> 데이터 엔지니어를 목표로 달리고 있는 유승현 입니다. </strong>
+- 💡 다양한 프로젝트에서 **PM/팀장** 역할을 맡아 **목표 중심 협업**에 능숙합니다.  
+- 📈 사용자를 고려한 **웹, AI, MLOps 기반 프로젝트 경험** 보유  
+- 🤝 팀원 간 소통에 힘쓰며, 설명력은 과거 보조 강사 경험으로 자연스럽게 길러졌습니다.
 
-분산처리 아키텍쳐 기반으로 데이터 수집 및 분석, 파이프라인 구축을 통한 정보 수집을 핵심 기술로 성장하고 있습니다.
+---
 
-<br>
+## 🚀 주요 프로젝트
 
+### 🖥️ SSABAB  
+> HomeServer 기반의 HTTPS 배포와 사용자 로그 설계를 포함한 실사용 웹 서비스  
+- 약 **100명 이상의 사용자 확보**  
+- 배포, 로깅, UX 관점의 데이터 분석까지 전 과정 경험
 
-## 경력
-- SSAFY 13기 데이터 트랙 (2025-01-07 ~ 학습 중)
-- 영남대학교 통계학과 졸업 (2025-02-21)
-- 영남대학교 컴퓨터공학과 졸업 (2025-02-21)
-- ADsP (2024-06-07)
-- SQLD (2023-12-15)
-- 메가존클라우드 아이티 평생교육원 - 디지털 인재 양성과정 (2023-02-07~2023-03-03)
-- 제 1회 It’s DGB, I’m Chellenger - Final Round 진출 (2022-09 ~ 2023-07)
-- SQL 자격증 교육 - 2022학년도 SMART Lab. 25차 교육프로그램 (2022-10-31 ~ 2022-11-13)
-- 파이썬을 활용한 데이터분석과 크롤링 - 2022학년도 SMART Lab. 16차 교육 프로그램 (2022-08-30 ~ 2022-09-12)
-- NFT와 블록체인 활용 크리에이터 교육 - 2022학년도 SMART Lab. 17차 교육 프로그램 (2022-08-24 ~ 2022-09-06)
-- 영남대인을 위한 파이썬 기반 빅데이터분석 & AI 기초교육 (2022-07-22)
-- 2022 내:일(Future, My job) 기업이 원하는 인성함양 캠프 (2022-06-30 ~ 2022-07-22)
+### 🎯 Dan-C  
+> YOLOv8을 튜닝한 객체 탐지 모델을 학습하고 문제은행 시스템으로 확장  
+- 직접 학습한 모델을 바탕으로 실제 데이터셋 대응  
+- AI 성능 개선과 응용 시스템 설계에 집중
 
+### 🧠 면접 질문 생성 AI  
+> RAG(Retrieval-Augmented Generation) 기반 질의응답형 인터뷰 질문 생성 시스템  
+- 자연어 처리 기술과 벡터 검색, MLOps 구조 설계 경험
 
-<br>
+---
 
-## 기술 스택
-**프로그래밍 언어**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=python&logoColor=%233776AB&label=python">
+## 🛠️ 기술 스택
 
-**+라이브러리**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=pandas&logoColor=%23150458&label=pandas">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=numpy&logoColor=%23013243&label=numpy">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=jupyter&logoColor=%23F37626&label=jupyter">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=pytorch&logoColor=%23EE4C2C&label=pytorch">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=fastapi&logoColor=%23009688&label=fastAPI">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=django&logoColor=%23092E20&label=django">
+| 분야 | 사용 기술 |
+|------|-----------|
+| 💻 **언어** | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/> |
+| 🔍 **AI/ML** | <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/-YOLOv8-000000?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> |
+| 🌐 **웹** | <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/> |
+| 📊 **데이터 분석** | <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/> |
+| 🗄️ **DB** | <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/> |
+| ☁️ **Infra** | <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/> |
+| 🔁 **분산처리 입문** | <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/-Flink-E6522C?style=flat&logo=apacheflink&logoColor=white"/> |
 
-**데이터베이스**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=sqlite&logoColor=%23003B57&label=SQLite">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=mysql&logoColor=%234479A1&label=MySQL">
+<details>
+<summary>📌 기술별 활용 역량 자세히 보기</summary>
 
-**인프라(AWS)**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonec2&logoColor=%23FF9900&label=amazon EC2">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=awslambda&logoColor=%23FF9900&label=aws Lambda">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazons3&logoColor=%23569A31&label=amazon S3">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonrds&logoColor=%23527FFF&label=amazon RDS">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonroute53&logoColor=%238C4FFF&label=amazon Route53">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=awselasticloadbalancing&logoColor=%238C4FFF&label=amazon ELB">
+### 🐍 Python / Data
+- <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/> 를 활용한 통계 분석, EDA, 데이터 전처리 가능  
+- <img src="https://img.shields.io/badge/-Matplotlib-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white"/> 을 활용한 정제된 시각화 수행
 
-**협업 도구**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=git&logoColor=%23F05032&label=git">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=github&logoColor=%23181717&label=github">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=githubactions&logoColor=%232088FF&label=github Actions">
+### 🌐 FastAPI / Django
+- <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/> 기반 REST API 설계 및 Pydantic 검증  
+- <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/> 로 소셜 로그인, 인증, ORM 모델링 구현 경험
 
-**컨테이너 도구**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=docker&logoColor=%232496ED&label=docker">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=dockercompose&logoColor=%232496ED&label=docker-Compose">
+### 🤖 ML / AI
+- <img src="https://img.shields.io/badge/-YOLOv8-000000?style=flat&logo=github&logoColor=white"/> 튜닝 및 객체 인식 문제 해결  
+- <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> 앙상블(XGBoost, CatBoost) 모델 기반 분류/회귀 수행  
+- RAG 기반 NLP 응용 및 MLOps 구조 설계 중
 
-**OS**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=ubuntu&logoColor=%23E95420&label=ubuntu">
+### ☁️ AWS & DevOps
+- <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/> EC2 + S3 + ALB 활용 HTTPS 배포  
+- <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/> 컨테이너 기반 환경 구성 및 <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/> CI 설정 경험
 
-**통계**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=r&logoColor=%23276DC3&label=R">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=spss&logoColor=%23EF3F56&label=SPSS">
+### 🤝 협업 및 팀 리딩
+- 다양한 프로젝트에서 PM 또는 팀장 역할 수행  
+- 과거 학원 보조 강사 경험이 발표력·소통력 향상에 도움이 되었음  
+- Git Flow 전략 기반의 팀 협업 경험 다수
 
-<br>
+</details>
 
-### 공부 예정
-**AI**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=openai&logoColor=%23412991&label=openAI">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=opencv&logoColor=%235C3EE8&label=openCV">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=keras&logoColor=%23D00000&label=keras">
+---
 
-**프로그래밍 언어**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=scala&logoColor=%23DC322F&label=scala">
+## 🏅 자격 및 활동
 
-**데이터베이스**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=redis&logoColor=%23FF4438&label=redis">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=mongodb&logoColor=%2347A248&label=mongoDB">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=postgresql&logoColor=%234169E1&label=postgreSQL">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=mariadb&logoColor=%23003545&label=mariaDB">
+- 🏆 ADsP, SQLD 자격증 보유  
+- 📚 빅데이터 분석기사, 정보처리기사 준비 중  
+- 📌 SSAFY 13기 데이터 트랙 수강 중 (2025.01~)  
+- 🥇 “It’s DGB, I’m Challenger” 공모전 결선 진출  
+- ☁️ 메가존 클라우드 디지털 인재 양성과정 수료  
+- 🎓 통계학과 · 컴퓨터공학과 복수전공 졸업 (영남대학교)
 
-**분산 아키텍쳐**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apacheairflow&logoColor=%23017CEE&label=Apache Airflow">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apachespark&logoColor=%23E25A1C&label=Apache Spark">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apachehadoop&logoColor=%2366CCFF&label=apache%20Hadoop">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=apachekafka&logoColor=%23231F20&label=Apache Kafka">
+---
 
-**인프라**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazondynamodb&logoColor=%234053D6&label=amazon DynamoDB">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonecs&logoColor=%23FF9900&label=amazon ECS">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazoneks&logoColor=%23FF9900&label=amazon EKS">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonapigateway&logoColor=%23FF4F8B&label=amazon APIGateway">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=amazonsqs&logoColor=%23FF4F8B&label=amazon SQS">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=terraform&logoColor=%23844FBA&label=terraform">
+## 📊 GitHub 활동
 
-**컨테이너 도구**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=kubernetes&logoColor=%23326CE5&label=kubernetes">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=prometheus&logoColor=%23E6522C&label=prometheus">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=helm&logoColor=%230F1689&label=helm">
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=istio&logoColor=%23466BB0&label=istio">
-
-**테스트 도구**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=pytest&logoColor=%230A9EDC&label=pytest">
-
-**기타**
-<img alt="Static Badge" src="https://img.shields.io/badge/build-_-_?style=social&logo=elasticsearch&logoColor=%23005571&label=elasticsearch">
-
-<br>
-
-## 평판
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoo-SeungHyeon)](https://github.com/anuraghazra/github-readme-stats)
-
-## 솔브냥
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoo-SeungHyeon&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/ysh01150" width="600" height="300"/></a>
-
