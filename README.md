@@ -6,14 +6,16 @@
 
 ## 🚀 주요 프로젝트
 
-### SSABAB [@URL](https://ssabab.com) 
-
-> SSAFY의 중식 평가 및 추천 프로젝트 [@link](https://github.com/ssabab/)
-- 하이브리드 클라우드 (홈서버 & AWS)
-- 모니터링 및 로깅 시스템 (Promehteus, Loki, Grafana)
-- GitOps (Github Action + ArgoCD + K8s + Helm)
-- MLOps
-- PWA
+### SSABAB 
+> SSAFY의 중식 평가 및 추천 프로젝트
+- **Demo URL** : https://ssabab.com
+- **Github 저장소** : https://github.com/ssabab/
+- **구조**
+  - 하이브리드 클라우드 (홈서버 & AWS)
+  - 모니터링 및 로깅 시스템 (Promehteus, Loki, Grafana)
+  - GitOps (Github Action + ArgoCD + K8s + Helm)
+  - MLOps
+  - PWA
 
 ---
 
