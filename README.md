@@ -49,5 +49,3 @@
 ## 📊 GitHub 활동
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoo-SeungHyeon&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/ysh01150" width="600" height="300"/></a>
