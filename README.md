@@ -17,13 +17,7 @@
 - 🏅 삼성 SW 역량평가 B형 취득
 
 
-## 🎯 Problem Solving
-
-<div align="center">
-  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysh01150)](https://solved.ac/ysh01150/)
-
-</div>
 
 
 ## 🛠️ Tech Stack
