@@ -15,11 +15,16 @@
 </br>
 
 ## 🚀 About Me
+
+</br>
+
 <div align="center">
 
 🎯 영남대학교 통계학과, 컴퓨터공학과 </br>
 🌱 SSAFY 13기 데이터반 </br>
 🏅 삼성 SW 역량평가 B형 취득 </br>
+
+</br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysh01150)](https://solved.ac/ysh01150/)
 
