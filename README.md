@@ -1,25 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=👋%20Hi,%20I'm%20SeungHyeon!%20👋&fontSize=40&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=👋%20Hi!%20I'm%20Yoo-SeungHyeon&fontSize=40&fontAlign=50&fontColor=ffffff" />
 </div>
 
 <div align="center">
   
-  ### Backend Developer | SSAFY 13기
+  ### Backend Developer
   
-  **"☕ 커피를 넣으면 코드가 나옵니다"**
+  **"☕ 커피를 넣으면 코드가 나옵니다!"**
   
 </div>
 
----
 
 ## 🚀 About Me
 - 🎯 영남대학교 통계학과, 컴퓨터공학과
 - 🌱 SSAFY 13기 데이터반
-- 💪 백엔드 개발에 열정을 가진 개발자
+- 🏅 삼성 SW 역량평가 B형 취득
 
----
 
-## 🛠️ Tech Stack & Proficiency
+
+## 🛠️ Tech Stack
 <div align="center">
 
 ### 💻 Backend
@@ -48,10 +47,11 @@
 <table>
 <tr align="center">
 <td><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/><br/>⭐⭐☆☆☆<br/><sub>Basic</sub></td>
+<td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/><br/>⭐☆☆☆☆<br/><sub>Beginner</sub></td>
 </tr>
 </table>
 
-### 🔧 DevOps & Collaboration
+### 🔧 Tools
 <table>
 <tr align="center">
 <td><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/><br/>⭐⭐⭐☆☆<br/><sub>Intermediate</sub></td>
@@ -62,9 +62,9 @@
 </table>
 
 </div>
----
 
-## 🏆 Awards & Achievements
+
+## 🏆 Awards
 
 <div align="center">
 
@@ -75,13 +75,6 @@
 
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/🎯_삼성_SW_역량평가_B형_취득-1428A0?style=for-the-badge&logoColor=white"/>
-  <br><br>
-</div>
-
----
 
 ## 📌 Projects
 
@@ -147,7 +140,6 @@
   - 이 프로젝트를 통해 얻은 성과나 배운 점을 작성
 - **GitHub**: [프로젝트 링크](https://github.com/username/repo)
 
----
 
 ## 📊 GitHub Stats
 
