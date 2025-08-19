@@ -54,7 +54,7 @@
 ### 🔧 Tools
 <table>
 <tr align="center">
-<td><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/><br/>⭐⭐⭐☆☆<br/><sub>Intermediate</sub></td>
+<td><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/>⭐⭐⭐☆☆<br/><sub>Intermediate</sub></td>
 <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/><br/>⭐⭐⭐⭐☆<br/><sub>Advanced</sub></td>
 <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/><br/>⭐⭐⭐⭐☆<br/><sub>Advanced</sub></td>
 <td><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/><br/>⭐☆☆☆☆<br/><sub>Beginner</sub></td>
