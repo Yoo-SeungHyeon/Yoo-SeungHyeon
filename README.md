@@ -17,6 +17,14 @@
 - 🏅 삼성 SW 역량평가 B형 취득
 
 
+## 🎯 Problem Solving
+
+<div align="center">
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysh01150)](https://solved.ac/ysh01150/)
+
+</div>
+
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -157,7 +165,8 @@
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-  [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog.com)
+  [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@yoo-seunghyeon)
+  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://your-notion-link.com)
+  [![Email](https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:effort-result@naver.com)
   
 </div>
