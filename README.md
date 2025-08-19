@@ -18,38 +18,48 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Proficiency
 <div align="center">
 
-### Backend
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-</div>
+### 💻 Backend
+<table>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/><br/>⭐⭐⭐⭐☆<br/><sub>Advanced</sub></td>
+<td><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/><br/>⭐⭐⭐☆☆<br/><sub>Intermediate</sub></td>
+<td><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/><br/>⭐⭐⭐☆☆<br/><sub>Intermediate</sub></td>
+</tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/><br/>⭐⭐☆☆☆<br/><sub>Basic</sub></td>
+<td><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/><br/>⭐☆☆☆☆<br/><sub>Beginner</sub></td>
+<td></td>
+</tr>
+</table>
 
-### Database
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-</div>
+### 🗄️ Database
+<table>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/><br/>⭐⭐⭐☆☆<br/><sub>Intermediate</sub></td>
+<td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/><br/>⭐⭐⭐☆☆<br/><sub>Intermediate</sub></td>
+</tr>
+</table>
 
-### Frontend
-<div>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
-</div>
+### 🎨 Frontend
+<table>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/><br/>⭐⭐☆☆☆<br/><sub>Basic</sub></td>
+</tr>
+</table>
 
-### Collaboration Tools
-<div>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
-</div>
+### 🔧 DevOps & Collaboration
+<table>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/><br/>⭐⭐⭐☆☆<br/><sub>Intermediate</sub></td>
+<td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/><br/>⭐⭐⭐⭐☆<br/><sub>Advanced</sub></td>
+<td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/><br/>⭐⭐⭐⭐☆<br/><sub>Advanced</sub></td>
+<td><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/><br/>⭐☆☆☆☆<br/><sub>Beginner</sub></td>
+</tr>
+</table>
+
 </div>
 ---
 
