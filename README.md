@@ -10,15 +10,25 @@
   
 </div>
 
+</br>
+</br>
+</br>
 
 ## 🚀 About Me
-- 🎯 영남대학교 통계학과, 컴퓨터공학과
-- 🌱 SSAFY 13기 데이터반
-- 🏅 삼성 SW 역량평가 B형 취득
+<div align="center">
 
+🎯 영남대학교 통계학과, 컴퓨터공학과 </br>
+🌱 SSAFY 13기 데이터반 </br>
+🏅 삼성 SW 역량평가 B형 취득 </br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysh01150)](https://solved.ac/ysh01150/)
 
+
+</div>
+
+</br>
+</br>
+</br>
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -65,6 +75,9 @@
 
 </div>
 
+</br>
+</br>
+</br>
 
 ## 🏆 Awards
 
@@ -77,6 +90,11 @@
 
 </div>
 
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## 📌 Projects
 
@@ -142,6 +160,9 @@
   - 이 프로젝트를 통해 얻은 성과나 배운 점을 작성
 - **GitHub**: [프로젝트 링크](https://github.com/username/repo)
 
+</br>
+</br>
+</br>
 
 ## 📊 GitHub Stats
 
@@ -153,7 +174,9 @@
   
 </div>
 
----
+</br>
+</br>
+</br>
 
 ## 📫 Contact
 
