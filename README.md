@@ -1,9 +1,10 @@
-# 👋 안녕하세요! 유승현입니다 
-### SeungHyeon Yoo | Backend Developer
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=👋%20Hi,%20I'm%20SeungHyeon!%20👋&fontSize=40&fontAlign=50&fontColor=ffffff" />
+</div>
 
 <div align="center">
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoo-SeungHyeon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  ### Backend Developer | SSAFY 13기
   
   **"☕ 커피를 넣으면 코드가 나옵니다"**
   
