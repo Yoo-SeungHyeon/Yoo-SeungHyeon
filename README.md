@@ -81,6 +81,9 @@
 
 ## 🏆 Awards
 
+</br>
+</br>
+
 <div align="center">
 
 | 🗓️ 날짜 | 🏅 수상명 | 🏢 주최 | 📝 비고 |
@@ -98,6 +101,8 @@
 
 ## 📌 Projects
 
+</br>
+
 ### 1. 🎯 CDD
 > **프로젝트 한 줄 소개를 작성해주세요**
 
@@ -113,6 +118,8 @@
 - **GitHub**: [프로젝트 링크](https://github.com/username/repo)
 
 ---
+
+</br>
 
 ### 2. 📰 SSAFYNEWS
 > **프로젝트 한 줄 소개를 작성해주세요**
@@ -130,6 +137,8 @@
 
 ---
 
+</br>
+
 ### 3. 📰 AI Challenge
 > **프로젝트 한 줄 소개를 작성해주세요**
 
@@ -145,6 +154,9 @@
 - **GitHub**: [프로젝트 링크](https://github.com/username/repo)
 
 ---
+
+</br>
+
 ### 4. 💭 Sentifl
 > **프로젝트 한 줄 소개를 작성해주세요**
 
