@@ -164,13 +164,24 @@
 </br>
 </br>
 
-## 📊 GitHub Stats
+## 🏅 GitHub Stats
 
 <div align="center">
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoo-SeungHyeon&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=Yoo-SeungHyeon&show_icons=true&rank_icon=github&theme=transparent&title_color=1E3A8A&text_color=334155&icon_color=3B82F6&ring_color=3B82F6" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoo-SeungHyeon&layout=compact&theme=transparent&title_color=1E3A8A&text_color=334155" alt="Top Languages"/>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoo-SeungHyeon&layout=compact&theme=radical)
+  <br/>
+  
+  <img src="https://streak-stats.demolab.com?user=Yoo-SeungHyeon&theme=transparent&hide_border=true&ring=3B82F6&fire=EF4444&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+  
+  <br/><br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Yoo-SeungHyeon&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoo-SeungHyeon&bg_color=ffffff00&color=1E3A8A&line=3B82F6&point=1E3A8A&area=true&hide_border=true" alt="Activity Graph"/>
   
 </div>
 
