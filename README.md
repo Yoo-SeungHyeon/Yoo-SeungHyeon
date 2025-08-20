@@ -201,10 +201,6 @@
   
   <br/><br/>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Yoo-SeungHyeon&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-  
-  <br/><br/>
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoo-SeungHyeon&bg_color=ffffff00&color=1E3A8A&line=3B82F6&point=1E3A8A&area=true&hide_border=true" alt="Activity Graph"/>
   
 </div>
