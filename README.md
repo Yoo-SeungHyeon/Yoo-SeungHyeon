@@ -51,6 +51,15 @@
 </tr>
 </table>
 
+### 🧠 Machine Learning & AI
+<table>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/><br/>⭐⭐⭐☆☆<br/><sub>Intermediate</sub></td>
+<td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><br/>⭐⭐⭐☆☆<br/><sub>Intermediate</sub></td>
+<td><img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/><br/>⭐⭐⭐☆☆<br/><sub>Intermediate</sub></td>
+</tr>
+</table>
+
 ### 🗄️ Database
 <table>
 <tr align="center">
@@ -67,7 +76,7 @@
 </tr>
 </table>
 
-### 🔧 Tools
+### 🔧 Tools & Infrastructure
 <table>
 <tr align="center">
 <td><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/>⭐⭐⭐☆☆<br/><sub>Intermediate</sub></td>
