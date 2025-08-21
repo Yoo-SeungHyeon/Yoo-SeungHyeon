@@ -120,7 +120,7 @@
 > **균열을 탐지하는 드론 및 탐지 영상 3D 렌더링 서비스**
 
 - **기간**: 2025.07.14 ~ 2025.08.17
-- **역할**: `AI` `Embedded` `Infra`
+- **역할**: AI / Embedded / Infra
 - **기술 스택**: `Python` `AWS` `YDLidar` `Neuralangelo`
 - **주요 기능**:
   - LiDAR를 활용한 벽 탐지 및 균열 깊이 추정
