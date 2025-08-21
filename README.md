@@ -128,7 +128,7 @@
   - 영상을 활용한 3D 렌더링 및 시각화
 - **성과/배운점**: 
   - AI 최적화와 센서의 오류를 처리하였고, 여러 동영상 전송 프로토콜에 대해서 학습할 수 있었습니다.
-- **GitHub**: [프로젝트 링크](https://github.com/username/repo)
+- **GitHub**: [프로젝트 링크](https://github.com/Crack-Detection-Drone)
 
 ---
 
