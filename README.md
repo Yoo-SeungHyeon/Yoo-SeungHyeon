@@ -173,7 +173,7 @@
 
 - **기간**: 2024.07 ~ 2024.11
 - **역할**: Infra / AI (감정분류 및 요약)
-- **기술 스택**: `Python` ``Keras `FastAPI` `AWS` `Docker` `Git`
+- **기술 스택**: `Python` `Keras` `FastAPI` `AWS` `Docker` `Git`
 - **주요 기능**:
   - 사용자의 글을 요약합니다.
   - 글에서 감정을 분류하여 프롬프트를 생성합니다.
