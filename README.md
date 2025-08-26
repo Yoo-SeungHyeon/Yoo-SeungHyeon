@@ -212,7 +212,7 @@
 <div align="center">
   
   [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@yoo-seunghyeon)
-  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://your-notion-link.com)
+  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://yoo-seunghyeon.notion.site/1ce6f535e08a80aab3ecda6310de33b5)
   [![Email](https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:effort-result@naver.com)
   
 </div>
