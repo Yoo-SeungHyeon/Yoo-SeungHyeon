@@ -181,7 +181,7 @@
 - **성과/배운점**: 
   - 동일한 데이터셋으로 학습을 진행했는데, LLM보다 Kera를 활용한 자체 구축 ML 모델이 더 성능이 좋은 것을 보고,
   범용 성능과 특화 성은의 최적화의 차이점에서 깨닫게 되었습니다.
-- **GitHub**: [프로젝트 링크](https://github.com/Yoo-SeungHyeon/Sentifl-AI)
+- **GitHub**: [프로젝트 링크](https://github.com/Sentifl)
 </br>
 </br>
 </br>
