@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I'm%20SeungHyeon&desc=1%20Coffee%20=%201%20Commit&descAlignY=60&fontAlignY=41"/>
 
-<span style="font-size:1.5em;"><b>"☕ 커피를 넣으면 코드가 나옵니다!"</b></span>
+### "☕ 커피를 넣으면 코드가 나옵니다!"
 
 </br>
 </br>
@@ -201,34 +201,16 @@ https://github.com/SSAFY-CDD
 </br>
 </br>
 
-<span style="font-size:2em; font-weight:bold;">★ CONTACT ★</span>
 
-<div style="border: 1px solid #333; padding: 20px; margin: 20px auto; max-width: 600px; text-align: left;">
+## ★ CONTACT ★
+
 
 <div style="text-align:center;">
     <span>
-        <b>Email</b> : effort-result@naver.com 
-        <button 
-            onclick="navigator.clipboard.writeText('effort-result@naver.com')" 
-            style="
-                margin-left:12px; 
-                padding:6px 16px; 
-                font-size:1em; 
-                cursor:pointer; 
-                border-radius: 18px; 
-                background: linear-gradient(90deg, #3B82F6 0%, #2563EB 100%);
-                color: #fff; 
-                border: none; 
-                transition: background 0.2s, transform 0.2s, box-shadow 0.2s;
-                box-shadow: 0 2px 8px rgba(30,58,138,0.08);
-            "
-            onmouseover="this.style.background='linear-gradient(90deg, #2563EB 0%, #3B82F6 100%)'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(30,58,138,0.15)';"
-            onmouseout="this.style.background='linear-gradient(90deg, #3B82F6 0%, #2563EB 100%)'; this.style.transform='none'; this.style.boxShadow='0 2px 8px rgba(30,58,138,0.08)';"
-        >이메일 복사</button>
+        <b>Email</b> : effort-result@naver.com
     </span>
 </div>
 
-</div>
 
 </br>
 </br>
