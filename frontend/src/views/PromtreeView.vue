@@ -1,127 +1,149 @@
 <template>
   <v-container class="py-8 py-md-12" fluid>
     <v-row justify="center">
-      <v-col cols="12" lg="10" xl="8">
+      <v-col cols="12" md="10" lg="9" xl="8">
 
-        <!-- Hero Section -->
-        <v-card class="mb-8 overflow-hidden" variant="flat" color="grey-darken-4">
-          <v-row no-gutters>
-            <v-col cols="12" md="6" class="d-flex flex-column justify-center pa-8 pa-md-12">
-              <div class="text-overline text-grey-lighten-1 mb-2 tracking-wide">AI & Data Pipeline</div>
-              <h1 class="text-h3 text-md-h2 font-weight-bold text-white mb-4">PROMTREE</h1>
-              <p class="text-body-1 text-grey-lighten-2 mb-6">
-                RAG를 활용한 물성 정보 추출 및 챗봇 프로젝트
-              </p>
-              <div class="d-flex flex-wrap ga-2">
-                <v-chip variant="outlined" color="white" size="small">FastAPI</v-chip>
-                <v-chip variant="outlined" color="white" size="small">Qdrant</v-chip>
-                <v-chip variant="outlined" color="white" size="small">RAG</v-chip>
-                <v-chip variant="outlined" color="white" size="small">LLM</v-chip>
-              </div>
-            </v-col>
-            <v-col cols="12" md="6">
-              <v-img
-                src="/images/PROMTREE.png"
-                height="100%"
-                min-height="280"
-                cover
-              ></v-img>
-            </v-col>
-          </v-row>
-        </v-card>
+        <!-- Header -->
+        <div class="text-center mb-10">
+          <h1 class="text-h3 text-md-h2 font-weight-bold">PROMTREE</h1>
+        </div>
 
-        <!-- Project Meta -->
-        <v-row class="mb-8">
-          <v-col v-for="meta in projectMeta" :key="meta.label" cols="6" md="3">
-            <div class="text-caption text-grey-darken-1 text-uppercase tracking-wide mb-1">{{ meta.label }}</div>
-            <div class="text-body-1 font-weight-medium">{{ meta.value }}</div>
+        <!-- Section 1: Image + 프로젝트 소개 -->
+        <v-row class="mb-10">
+          <v-col cols="12" md="6">
+            <v-img
+              src="/images/PROMTREE.png"
+              class="rounded-lg"
+              :aspect-ratio="16/10"
+              cover
+            ></v-img>
+          </v-col>
+          <v-col cols="12" md="6">
+            <h2 class="text-h5 text-md-h4 font-weight-bold mb-5">
+              RAG를 활용한 물성 정보 추출 및 챗봇
+            </h2>
+            <h3 class="info-section-title">프로젝트 소개</h3>
+            <table class="info-table">
+              <tr>
+                <td class="info-label">프로젝트 명</td>
+                <td class="info-value">PROMTREE</td>
+              </tr>
+              <tr>
+                <td class="info-label">목표</td>
+                <td class="info-value">RAG 기법을 활용해 PDF에서 물성 정보 추출, 챗봇 형태로 데이터 접근</td>
+              </tr>
+              <tr>
+                <td class="info-label">기간</td>
+                <td class="info-value">2025.10.10 ~ 2025.11.20</td>
+              </tr>
+              <tr>
+                <td class="info-label">팀원</td>
+                <td class="info-value">6명</td>
+              </tr>
+            </table>
+          </v-col>
+        </v-row>
+
+        <!-- Section 2: 프로젝트 배경 + Tech Stack -->
+        <v-row class="mb-10">
+          <v-col cols="12" md="6">
+            <h3 class="info-section-title">프로젝트 배경</h3>
+            <p class="text-body-1 text-grey-darken-2" style="line-height: 1.9;">
+              삼성전자 생산기술 연구소에서 물성 예측 모델 개발을 위해서 <strong>대용량의 데이터셋</strong>이
+              필요했습니다. 그래서 <strong>원천 자료(PDF)</strong>에서 필요한 정보만 정확하게 가져오는
+              서비스가 필요했고, 추가로 물성 엔지니어가 편하게 <strong>물성 정보를 찾을 수 있게</strong> 이를
+              도와주는 <strong>챗봇 서비스</strong> 또한 필요하여 이를 해결하고자 프로젝트를 시작하였습니다.
+            </p>
+          </v-col>
+          <v-col cols="12" md="6">
+            <h3 class="info-section-title">Tech Stack</h3>
+            <div class="d-flex flex-wrap ga-2">
+              <v-chip v-for="tech in techStack" :key="tech" variant="outlined" size="small" class="font-weight-medium">
+                {{ tech }}
+              </v-chip>
+            </div>
           </v-col>
         </v-row>
 
         <v-divider class="mb-10"></v-divider>
 
-        <!-- Overview Section -->
+        <!-- Key Features & My Role -->
+        <v-row class="mb-12">
+          <!-- Left: 주요기능 + 담당역할 -->
+          <v-col cols="12" md="5">
+            <section class="mb-8">
+              <h3 class="info-section-title">주요기능</h3>
+              <ol class="text-body-2 text-grey-darken-2 pl-5" style="line-height: 2;">
+                <li v-for="feature in features" :key="feature">{{ feature }}</li>
+              </ol>
+            </section>
+            <section>
+              <h3 class="info-section-title">담당 역할 (AI, Backend)</h3>
+              <ol class="text-body-2 text-grey-darken-2 pl-5" style="line-height: 2;">
+                <li v-for="role in roles" :key="role">{{ role }}</li>
+              </ol>
+            </section>
+          </v-col>
+          <!-- Right: 기능 다이어그램 -->
+          <v-col cols="12" md="7">
+            <v-img
+              src="/images/PROMTREE_FEATURE.png"
+              class="rounded-lg"
+              :height="350"
+              :aspect-ratio="1"
+              contain  
+            ></v-img>
+          </v-col>
+        </v-row>
+
+        <!-- Deep Dive Q&A -->
         <section class="mb-12">
-          <h2 class="section-title">Overview</h2>
+          <h3 class="section-title">Deep Dive</h3>
           <v-row>
-            <v-col cols="12" md="8">
-              <p class="text-body-1 text-grey-darken-2 mb-4" style="line-height: 1.8;">
-                삼성전자 생산기술연구소의 물성 예측 모델 개발 과정에서, 대용량 데이터셋 확보와
-                정확한 데이터 파이프라인 구축이 필요하였습니다.
+            <v-col v-for="(qa, i) in qaItems" :key="i" cols="12" md="6">
+              <v-img
+                :src="qa.image"
+                class="rounded-lg mb-4"
+                :aspect-ratio="16/9"
+                cover
+              ></v-img>
+              <p class="text-body-1 font-weight-bold text-grey-darken-4 mb-2">
+                Q. {{ qa.question }}
               </p>
-              <p class="text-body-1 text-grey-darken-2" style="line-height: 1.8;">
-                본 프로젝트는 원천 PDF 데이터로부터 물성 정보를 추출하고,
-                물성 엔지니어가 쉽고 빠르게 접근 가능한 <strong>챗봇 서비스를 제공</strong>하는 것을 목표로 하였습니다.
+              <p class="text-body-2 text-grey-darken-2" style="line-height: 1.8;">
+                A. {{ qa.answer }}
               </p>
-            </v-col>
-          </v-row>
-        </section>
-
-        <!-- Tech Stack Section -->
-        <section class="mb-12">
-          <h2 class="section-title">Tech Stack</h2>
-          <div class="d-flex flex-wrap ga-2">
-            <v-chip v-for="tech in techStack" :key="tech" variant="outlined" size="default" class="font-weight-medium">
-              {{ tech }}
-            </v-chip>
-          </div>
-        </section>
-
-        <!-- Key Features Section -->
-        <section class="mb-12">
-          <h2 class="section-title">Key Features</h2>
-          <v-row>
-            <v-col v-for="(feature, i) in features" :key="i" cols="12" md="4">
-              <v-card variant="outlined" class="pa-6 h-100 feature-card">
-                <div class="text-h4 font-weight-bold text-grey-lighten-1 mb-4">{{ String(i + 1).padStart(2, '0') }}</div>
-                <p class="text-body-1 text-grey-darken-3">{{ feature }}</p>
-              </v-card>
-            </v-col>
-          </v-row>
-        </section>
-
-        <!-- My Role Section -->
-        <section class="mb-12">
-          <h2 class="section-title">My Contributions</h2>
-          <v-row>
-            <v-col cols="12" md="8">
-              <div class="role-list">
-                <div v-for="(role, i) in roles" :key="i" class="role-item d-flex align-start mb-5">
-                  <div class="role-number text-grey-darken-1 font-weight-medium mr-4">{{ String(i + 1).padStart(2, '0') }}</div>
-                  <div>
-                    <p class="text-body-1 text-grey-darken-3">{{ role }}</p>
-                  </div>
-                </div>
-              </div>
             </v-col>
           </v-row>
         </section>
 
         <v-divider class="mb-10"></v-divider>
 
-        <!-- Results Section -->
-        <section class="mb-12">
-          <h2 class="section-title">Results</h2>
-          <v-row class="mb-10">
-            <v-col cols="12" md="8">
-              <p class="text-body-1 text-grey-darken-2" style="line-height: 1.8;">
-                삼성전자 생산기술연구소 사내 알파테스트에 실제 활용됨
-              </p>
-            </v-col>
-          </v-row>
-
-          <h2 class="section-title">Learnings</h2>
-          <v-row>
-            <v-col cols="12" md="8">
-              <div class="learning-list">
-                <div v-for="(learning, i) in learnings" :key="i" class="d-flex align-start mb-5">
-                  <div class="text-grey-darken-1 font-weight-medium mr-4" style="min-width: 24px;">{{ String(i + 1).padStart(2, '0') }}</div>
-                  <p class="text-body-1 text-grey-darken-3">{{ learning }}</p>
-                </div>
-              </div>
-            </v-col>
-          </v-row>
-        </section>
+        <!-- Results & Learnings -->
+        <v-row>
+          <v-col cols="12" md="5">
+            <v-img
+              src="/images/PROMTREE_SAMSUNG.jpg"
+              class="rounded-lg"
+              :aspect-ratio="4/3"
+              cover
+            ></v-img>
+          </v-col>
+          <v-col cols="12" md="7">
+            <section class="mb-6">
+              <h3 class="info-section-title">프로젝트 성과</h3>
+              <ul class="text-body-1 text-grey-darken-2 pl-5">
+                <li>[삼성전자 생산기술 연구소] 사내 알파 테스트에 활용</li>
+              </ul>
+            </section>
+            <section>
+              <h3 class="info-section-title">프로젝트에서 성장한 점</h3>
+              <ul class="text-body-2 text-grey-darken-2 pl-5" style="line-height: 2;">
+                <li v-for="learning in learnings" :key="learning">{{ learning }}</li>
+              </ul>
+            </section>
+          </v-col>
+        </v-row>
 
       </v-col>
     </v-row>
@@ -129,46 +151,90 @@
 </template>
 
 <script setup>
-const projectMeta = [
-  { label: 'Duration', value: '2025.10 - 2025.11' },
-  { label: 'Team Size', value: '6명' },
-  { label: 'Role', value: 'AI & Backend Lead' },
-  { label: 'Client', value: '삼성전자' }
+const features = [
+  'PDF를 마크다운으로 변환하는 Parser',
+  '마크다운에서 필요한 정보를 추출하는 Extract RAG',
+  '물성 데이터 검색을 위한 챗봇'
 ];
 
-const features = [
-  'PDF → Markdown 변환 Parser 자체 개발',
-  'Markdown 구조에서 정확한 정보 추출을 위한 Extract RAG 구현',
-  '물성 데이터 검색 및 질의응답 챗봇 서비스 제공'
+const qaItems = [
+  {
+    image: '/images/PROMTREE_PARSER.png',
+    question: '시중에 존재하는 Parser가 아닌 자체 Parser를 개발한 이유는?',
+    answer: '기존의 Parser는 문서를 그대로 추출하는 것이 목표입니다. 하지만 저희는 사람이 보기에 비슷하게 추출하는 것이 아닌 AI가 데이터를 추출하기 쉬운 형태를 원했기에 표나 이미지를 추가로 전처리하는 자체 Parser를 개발하였습니다.'
+  },
+  {
+    image: '/images/PROMTREE_PIPELINE.png',
+    question: '파이프라인 구축에서 가장 힘들었던 부분은?',
+    answer: '데이터 추출 정확도 99%라는 목표를 충족하기 위해서는 상대적으로 구조가 정형화된 MSDS에서는 정확도가 100%에 근접해야 했습니다. 이를 위해 정규표현식, FewShot, 앙상블 등 다양한 방법을 시도하면서 95%에서 99%까지 정확도를 올리는 과정이 가장 힘들었던 부분입니다.'
+  }
 ];
 
 const roles = [
-  '자체 PDF Parser 개발 및 데이터 파이프라인 구축',
-  'FastAPI 기반 챗봇 백엔드 API 설계 및 구현',
-  'Qdrant 벡터 DB를 활용한 임베딩 및 검색 시스템 최적화',
-  'LLM 응답 품질 향상을 위한 프롬프트 엔지니어링'
+  '자체 Parser 개발',
+  'PDF에서 물질 정보 추출 파이프라인 구축',
+  'FastAPI를 활용한 챗봇 백엔드 구축',
+  'Qdrant를 활용한 벡터 저장 및 검색 기능'
 ];
 
 const learnings = [
-  'ISO32000 기반 PDF 구조 분석 및 커스텀 Parser 설계 경험',
-  '다양한 RAG 파이프라인 구성 및 벡터 DB(Qdrant) 실무 적용 경험'
+  'PDF 표준(ISO 32000)에 대한 이해',
+  '다양한 Parser의 장단점',
+  'Document Layout Model에 대한 학습',
+  '다양한 RAG 기법의 장단점',
+  '검색에 사용할 수 있는 다양한 DB에 대한 이해',
+  '표 인식 모델에 대한 학습'
 ];
 
 const techStack = ['Python', 'FastAPI', 'Qdrant', 'LangChain', 'OpenAI API', 'Docker'];
 </script>
 
 <style scoped>
-.tracking-wide {
-  letter-spacing: 0.1em;
-}
-
 .section-title {
   font-size: 0.75rem;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.15em;
-  color: #9e9e9e;
-  margin-bottom: 1.5rem;
+  letter-spacing: 0.12em;
+  color: #757575;
+  margin-bottom: 1rem;
+}
+
+.info-section-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #212121;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.info-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.info-table tr {
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.info-table tr:last-child {
+  border-bottom: none;
+}
+
+.info-label {
+  width: 100px;
+  padding: 0.6rem 0;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #757575;
+  vertical-align: top;
+}
+
+.info-value {
+  padding: 0.6rem 0;
+  font-size: 0.875rem;
+  color: #424242;
+  line-height: 1.6;
 }
 
 .feature-card {
