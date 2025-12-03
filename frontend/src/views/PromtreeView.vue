@@ -24,6 +24,7 @@
             </h2>
             <h3 class="info-section-title">프로젝트 소개</h3>
             <table class="info-table">
+              <tbody>
               <tr>
                 <td class="info-label">프로젝트 명</td>
                 <td class="info-value">PROMTREE</td>
@@ -40,6 +41,7 @@
                 <td class="info-label">팀원</td>
                 <td class="info-value">6명</td>
               </tr>
+              </tbody>
             </table>
           </v-col>
         </v-row>
