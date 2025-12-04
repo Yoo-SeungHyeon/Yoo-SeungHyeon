@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 from app.schema.utils import HealthCheckResponse
+from app.router.chatbot import chat_router
 
 app = FastAPI()
 
@@ -14,3 +15,5 @@ async def root():
     Health check endpoint.
     """
     return HealthCheckResponse(status=200)
+
+app.include_router(chat_router)
