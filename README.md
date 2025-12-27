@@ -108,6 +108,11 @@
 • 검색에 사용할 수 있는 다양한 DB에 대한 이해</br>
 • 표 인식 모델에 대한 학습  </br>
 
+</br>
+
+**GitHub**  
+https://github.com/Yoo-SeungHyeon/PROMTREE
+
 ---
 
 ### 2. DAILYPET - 펫 건강 이상 탐지 및 펫 금융상품 추천 서비스
@@ -152,6 +157,11 @@
 **성장 경험**  
 • 이상치 탐지 모델 설계/구현 경험  
 • 추천 시스템 및 필터링 기반 RAG 기법 실습  
+
+</br>
+
+**GitHub**  
+https://github.com/Yoo-SeungHyeon/DAILYPET
 
 ---
 
