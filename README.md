@@ -1,253 +1,276 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I'm%20SeungHyeon&desc=1%20Coffee%20=%201%20Commit&descAlignY=60&fontAlignY=41"/>
+<br/>
 
-### "☕ 커피를 넣으면 코드가 나옵니다!"
+# 유승현
 
-</br>
-</br>
-</br>
+### 모으고 가공하고 만드는 개발자
 
-## About Me
+<br/>
 
-</br>
+*문제를 정의하고, 해결 방법을 찾고, 그 과정에서 AI와 협업합니다.*  
+*결과물보다 과정이 저를 설명합니다.*
 
-통계학과 컴퓨터공학을 복수 전공하여 AI를 공부하고 있는 개발자 유승현입니다. </br>
-성능만이 아닌, 자원과 시간을 고려해 문제 해결에 실질적인 도움이 되는 '최적의 AI'를 추구합니다. </br>
-팀의 성장을 위해 새로운 기술 학습을 주저하지 않고, 책임감 있게 프로젝트를 완수합니다. </br>
+<br/>
+<br/>
 
-</br>
-</br>
-</br>
-</br>
+---
 
-## Tech Stack
+<br/>
 
-| 기술        | 상세 내용                                         |
-|-------------|---------------------------------------------------|
-| Python      | 삼성 SW 역량테스트 Pro                            |
-| FastAPI     | 비동기 API 설계, 데이터 정합성 검증               |
-| Django      | 데이터 관리, 관리자 페이지 커스터마이즈           |
-| Yolo        | 온디바이스 실시간 객체 탐지, 타일링 기반 Segmentation, 문서 레이아웃 분석 |
-| Pytorch     | Transformer 인코더 구현 및 모델링                 |
-| AWS         | 소셜 로그인, S3 Trigger & Presigned UR, Lambda 라우팅 |
-| MySQL       | 3차 정규화를 고려한 설계                         |
-| Docker      | 캐시 최적화, 멀티스테이지 빌드, docker compose   |
+> *"AI는 나의 도구이자 동료입니다.*  
+> *하지만 문제를 정의하고, 방향을 정하고,*  
+> *책임지는 것은 언제나 '나'입니다."*
 
-</br>
-</br>
-</br>
+<br/>
+<br/>
 
-## 수상 내역
+---
 
-</br>
-</br>
+<br/>
 
-| 날짜 | 수상명 | 주최 | 비고 |
-|:---:|:---:|:---:|:---:|
-| **2025.12.18** | 🏆 **장관상** | 고용노동부 | SSAFY 13기 우수 수료생 |
-| **2025.09.29** | 🏆 **우수상(2등)** | 삼성 전자 | SSAFY 13기 특화 프로젝트 |
-| **2025.08.26** | 🏆 **우수상(3등)** | 삼성 전자 | SSAFY 13기 공통 프로젝트 |
-| **2025.05.30** | 🏆 **성적 우수상(2등)** | 삼성 전자 | SSAFY 13기 |
-| **2023.07.20** | 🏆 **참가상(Top 6)** | iM 뱅크 | It's DGB, I'm Challenger 공모전 |
+## CASE STUDIES
 
-</br>
-</br>
-</br>
-</br>
-</br>
+<br/>
 
-## Projects
+### 01. PROMTREE
 
-</br>
+**"흩어진 문서에서 지식을 모으다"**
 
-### 1. PROMTREE - RAG를 활용한 물성 정보 추출 및 챗봇 프로젝트
+`2025.10 - 11` · `6인 팀` · `삼성전자 생산기술연구소 연계`
+
+<br/>
 
 <img src="./images/PROMTREE.png" alt="PROMTREE" width="600" />
 
-|              | 내용                                                                                 |
-|:------------:|:-------------------------------------------------------------------------------------|
-| **프로젝트 명** | PROMTREE                                                                            |
-| **기간**        | 2025.10.10 ~ 2025.11.20                                                             |
-| **팀원**        | 6명                                                                                 |
+<br/>
+<br/>
 
-</br>
+**문제**  
+삼성전자 생산기술연구소의 엔지니어들은 물성 예측 모델을 개발하기 위해 대용량의 데이터셋이 필요했습니다.  
+하지만 원천 자료는 수천 개의 PDF 문서에 흩어져 있었고, 문서마다 형식이 달랐습니다.
 
-**프로젝트 소개**</br>
-삼성전자 생산기술 연구소에서 물성 예측 모델 개발을 위해서 대용량의 데이터셋이 필요했습니다.</br>
-원천 자료(PDF)에서 필요한 정보만 정확하게 가져오는 서비스가 필요했고, 추가로 물성 엔지니어가 편하게</br>
-물성 정보를 찾을 수 있게 이를 도와주는 챗봇 서비스 또한 필요하여 이를 해결하고자 프로젝트를 시작하였습니다.</br>
+<br/>
 
-</br>
+**접근**  
+기존 PDF 파싱 라이브러리들의 한계를 분석하고, PDF 표준(ISO 32000)을 연구했습니다.  
+Claude와 함께 "정규표현식으로 테이블을 찾는 건 왜 실패하는가?"라는 질문에서 시작해,  
+**좌표 기반 접근법**이라는 새로운 방향을 찾았습니다.
 
-**주요 기능**</br>
-• PDF를 마크다운으로 변환하는 Parser</br>
-• 마크다운에서 필요한 정보를 추출하는 Extract RAG</br>
-• 물성 데이터 검색을 위한 챗봇  </br>
+<br/>
 
-</br>
+**해결**  
+- **자체 PDF Parser:** 좌표 분석 + Document Layout Model로 테이블/텍스트 구조화  
+- **Extract RAG:** 마크다운에서 필요한 물성 정보만 추출, 규격화  
+- **검색 챗봇:** FastAPI + Qdrant 기반 자연어 검색  
 
-**담당 역할 (AI, Backend)**</br>
-• 자체 Parser 개발</br>
-• PDF에서 물질 정보 추출 파이프라인 구축</br>
-• FastAPI를 활용한 챗봇 백엔드 구축</br>
-• Qdrant를 활용한 벡터 저장 및 검색 기능</br>  
+<br/>
 
-</br>
+**담당 역할** `AI` `Backend`  
+- 자체 Parser 개발  
+- PDF에서 물질 정보 추출 파이프라인 구축  
+- FastAPI를 활용한 챗봇 백엔드 구축  
+- Qdrant를 활용한 벡터 저장 및 검색 기능  
 
-**성과**</br>
-• [삼성전자 생산기술 연구소] 사내 알파 테스트에 활용  </br>
+<br/>
 
-</br>
+**성과**  
+삼성전자 생산기술연구소 사내 알파 테스트에 활용
 
-**성장 경험**</br>
-• PDF 표준(ISO 32000)에 대한 이해</br>
-• 다양한 Parser의 장단점</br>
-• Document Layout Model에 대한 학습</br>
-• 다양한 RAG 기법의 장단점</br>
-• 검색에 사용할 수 있는 다양한 DB에 대한 이해</br>
-• 표 인식 모델에 대한 학습  </br>
+<br/>
 
-</br>
+> 💡 **Learning**  
+> *"완벽한 자동화보다, 신뢰할 수 있는 반자동화가 더 가치 있습니다.  
+> 99%의 자동화와 1%의 인간 검증이 100%의 자동화보다 현실적이고,  
+> 사용자가 신뢰할 수 있는 시스템이 결국 더 오래 쓰입니다."*
 
-**GitHub**  
-https://github.com/Yoo-SeungHyeon/PROMTREE
+<br/>
+
+[🔗 GitHub](https://github.com/Yoo-SeungHyeon/PROMTREE)
+
+<br/>
 
 ---
 
-### 2. DAILYPET - 펫 건강 이상 탐지 및 펫 금융상품 추천 서비스
+<br/>
+
+### 02. DAILYPET
+
+**"일상의 데이터에서 건강의 신호를 읽다"**
+
+`2025.09` · `6인 팀` · `SSAFY 특화 프로젝트 우수상 (2등)`
+
+<br/>
 
 <img src="./images/DAILYPET.png" alt="DAILYPET" width="600" />
 
+<br/>
+<br/>
 
-|              | 내용                                                                                 |
-|:------------:|:-------------------------------------------------------------------------------------|
-| **프로젝트 명** | DAILYPET                                                                             |
-| **기간**        | 2025.09.01 ~ 2025.09.28                                                             |
-| **팀원**        | 6명                                                                                 |
+**문제**  
+반려동물은 말을 하지 못합니다. 아파도 숨기는 경향이 있고,  
+보호자가 이상을 느꼈을 때는 이미 상태가 악화된 경우가 많습니다.  
+매일 기록하는 산책 시간, 식사량, 수면 패턴... 이 **일상 데이터**에서 건강 이상의 조기 신호를 찾을 수 있지 않을까?
 
-</br>
+<br/>
 
-**프로젝트 소개**  
-복잡하고 애매한 펫 보험 및 금융상품 선택 과정과, 반려동물의 건강 문제 조기 인지 어려움을 AI와 데이터로 해결하고자 시작한 프로젝트입니다.
+**접근**  
+여러 이상치 탐지 모델을 비교 분석하면서, 각 모델의 특성과 데이터의 특성을 매칭했습니다.  
+특히 **Cold Start 문제**(새 사용자는 데이터가 없는데 어떻게 "평소"를 정의할 것인가?)를 해결하기 위해  
+**Isolation Forest + IQR 하이브리드** 방식을 채택했습니다.
 
-</br>
+<br/>
 
-**주요 기능**  
-• 모바일/웨어러블로 일상 데이터 기록  
-• 식사·산책 등 데이터 기반 건강 이상 탐지  
-• 기록 데이터를 활용한 맞춤 펫 금융상품 추천  
+**해결**  
+- **일상 기록:** 모바일/웨어러블로 식사·산책 등 데이터 수집  
+- **건강 모니터링:** 복합 지표 가중치 + 연속성 체크 + 심각도 등급화  
+- **맞춤 추천:** 품종, 나이, 활동량, 건강 기록 기반 RAG 펫 금융상품 추천  
 
-</br>
+<br/>
 
-**담당 역할 (AI, Infra, PM)**  
-• 이상치 탐지 AI 모델 개발  
-• RAG 기반 데이터 추출 기능 개발  
-• 금융상품 추천 모델 개발  
-• 인프라: 설계, 배포, CI/CD, IaC, 모니터링 구축  
-• 관리자 페이지 개발  
+**담당 역할** `AI` `Infra` `PM`  
+- 이상치 탐지 AI 모델 개발  
+- RAG 기반 데이터 추출 기능 개발  
+- 금융상품 추천 모델 개발  
+- 인프라: 설계, 배포, CI/CD, IaC, 모니터링 구축  
+- 관리자 페이지 개발  
 
-</br>
+<br/>
 
 **성과**  
-• SSAFY 특화 프로젝트 우수상 (2등) 수상  
+🏆 SSAFY 특화 프로젝트 우수상 (2등)
 
-</br>
+<br/>
 
-**성장 경험**  
-• 이상치 탐지 모델 설계/구현 경험  
-• 추천 시스템 및 필터링 기반 RAG 기법 실습  
+> 💡 **Learning**  
+> *"좋은 AI 모델보다 좋은 데이터 설계가 먼저입니다.  
+> 어떤 데이터를 어떻게 수집할지, 수집 단계에서의 설계가  
+> 전체 시스템의 성능 상한선을 결정합니다."*
 
-</br>
+<br/>
 
-**GitHub**  
-https://github.com/Yoo-SeungHyeon/DAILYPET
+[🔗 GitHub](https://github.com/Yoo-SeungHyeon/DAILYPET)
+
+<br/>
 
 ---
 
-### 3. CDD(Crack Detection Drone) - 균열 감지 드론 프로젝트
+<br/>
+
+### 03. CDD
+
+**"사람이 갈 수 없는 곳의 눈이 되다"**
+
+`2025.07 - 08` · `6인 팀` · `SSAFY 공통 프로젝트 우수상 (3등)`
+
+<br/>
 
 <img src="./images/CDD.png" alt="CDD" width="600" />
 
-|              | 내용                                                                                 |
-|:------------:|:-------------------------------------------------------------------------------------|
-| **프로젝트 명** | CDD (Crack Detection Drone)                                                        |
-| **기간**        | 2025.07.14 ~ 2025.08.17                                                             |
-| **팀원**        | 6명                                                                                 |
+<br/>
+<br/>
 
-</br>
+**문제**  
+고층 건물, 교량 하부, 댐 벽면... 대형 구조물의 균열 점검은 위험하고 비용이 많이 듭니다.  
+**드론과 AI**를 결합하면, 안전하고 빠르게 정밀 점검을 할 수 있지 않을까?
 
-**프로젝트 소개**  
-고층 건물, 교량 하부 등 관리가 어려운 대형 구조물의 비용/안전문제를 드론과 온디바이스 AI로 해소하여 정밀 모니터링 및 사고 예방을 목표로 수행한 프로젝트입니다.
+<br/>
 
-</br>
+**접근**  
+처음 계획은 단순했습니다. 드론이 촬영 → 서버로 전송 → AI 분석 → 결과 반환.  
+하지만 실시간 점검이 필요한 현장에서 **네트워크 지연**은 치명적이었습니다.  
+결국 **온디바이스 AI**로 방향을 틀었고, Jetson Orin Nano에서  
+**GPU 기반 MJPEG 인코딩 + RTSP 전송**으로 50ms 지연, 최대 50fps를 달성했습니다.
 
-**주요 기능**  
-• RTSP/MJPEG 기반 드론 영상 실시간 송수신  
-• 온디바이스 AI로 실시간 균열 감지  
-• LiDAR, Segmentation 모델 활용 정밀 탐지  
-• 녹화 영상 → 현장 3D 렌더링  
-• 작업자/관리자 웹 공유 페이지  
+<br/>
 
-</br>
+**해결**  
+- **실시간 탐지:** YOLO 기반 온디바이스 AI 균열 감지  
+- **깊이 측정:** LiDAR + Segmentation 모델로 균열의 3D 정보 추출  
+- **기록 및 공유:** 녹화 영상 3D 렌더링, 웹 공유  
 
-**담당 역할 (AI, Infra, Embedded)**  
-• Yolo 모델을 활용한 실시간 균열 감지 모델 개발  
-• LiDAR 기반 균열 깊이 측정 기능 개발  
-• 실시간 영상 송출 기능 개발  
-• AWS 인프라 설계 및 구축  
+<br/>
 
-</br>
+**담당 역할** `AI` `Infra` `Embedded`  
+- YOLO 모델을 활용한 실시간 균열 감지 모델 개발  
+- LiDAR 기반 균열 깊이 측정 기능 개발  
+- 실시간 영상 송출 기능 개발  
+- AWS 인프라 설계 및 구축  
+
+<br/>
 
 **성과**  
-• SSAFY 공통 프로젝트 우수상 (3등) 수상  
+🏆 SSAFY 공통 프로젝트 우수상 (3등)
 
-</br>
+<br/>
 
-**성장 경험**  
-• 임베디드 환경 및 비디오 송수신/통신 프로토콜 이해  
+> 💡 **Learning**  
+> *"엣지 디바이스에서의 AI는 클라우드와 완전히 다른 제약이 있습니다.  
+> 제한된 자원 안에서 최선의 트레이드오프를 찾는 것,  
+> 그것이 진짜 엔지니어링입니다."*
 
-</br>
+<br/>
 
-**GitHub**  
-https://github.com/SSAFY-CDD
+[🔗 GitHub](https://github.com/SSAFY-CDD)
 
+<br/>
 
-</br>
-</br>
-</br>
+---
 
+<br/>
 
-## ★ CONTACT ★
+## ABOUT
 
+<br/>
 
-<div style="text-align:center;">
-    <span>
-        <b>Email</b> : effort-result@naver.com
-    </span>
-</div>
+**Education**  
+영남대학교 산업공학과 & 컴퓨터공학과 복수전공 · 2021 - 2025  
+삼성 청년 SW 아카데미 (SSAFY) 13기 · 2025
 
+<br/>
 
-</br>
-</br>
-</br>
+**Awards**  
+🏆 고용노동부 장관상 · SSAFY 우수 수료 · 2025.12  
+🏆 삼성전자 우수상 (2등) · 특화 프로젝트 · 2025.09  
+🏆 삼성전자 우수상 (3등) · 공통 프로젝트 · 2025.08  
+🏆 삼성전자 성적 우수상 (2등) · SSAFY 13기 · 2025.05
 
-## GitHub Stats
+<br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Yoo-SeungHyeon&show_icons=true&theme=transparent&title_color=1E3A8A&text_color=334155&icon_color=3B82F6&ring_color=3B82F6" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoo-SeungHyeon&layout=compact&theme=transparent&title_color=1E3A8A&text_color=334155" alt="Top Languages"/>
-  
-  <br/>
-  
-  <img src="https://streak-stats.demolab.com?user=Yoo-SeungHyeon&theme=transparent&hide_border=true&ring=3B82F6&fire=EF4444&currStreakLabel=3B82F6" alt="GitHub Streak"/>
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoo-SeungHyeon&bg_color=ffffff00&color=1E3A8A&line=3B82F6&point=1E3A8A&area=true&hide_border=true" alt="Activity Graph"/>
-  
+**Certifications**  
+SSAFY SW역량테스트 B형 (Pro) · 데이터분석기사 · SQLD · ADsP · OPIc IM1
 
-</br>
-</br>
-</br>
+<br/>
+
+**Tech**
+
+`Python` `FastAPI` `Django` `PyTorch` `YOLO` `AWS` `Docker` `MySQL`
+
+<br/>
+
+---
+
+<br/>
+
+## CONTACT
+
+<br/>
+
+**다음 이야기를 함께 써 내려갈 준비가 되셨나요?**
+
+<br/>
+
+📧 [effort-result@naver.com](mailto:effort-result@naver.com)  
+📱 010-9386-9428  
+🔗 [GitHub](https://github.com/Yoo-SeungHyeon) · [Blog](https://www.shyo2.com)
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+© 2025 Seunghyeon Yoo
 
 </div>
