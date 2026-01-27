@@ -11,20 +11,11 @@
 <br/>
 <br/>
 
-<!-- Social Badges -->
-[![Email](https://img.shields.io/badge/Email-effort--result@naver.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:effort-result@naver.com)
-[![Blog](https://img.shields.io/badge/Blog-shyo2.com-11B48A?style=for-the-badge&logo=velog&logoColor=white)](https://www.shyo2.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Yoo--SeungHyeon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yoo-SeungHyeon)
-
-<br/>
-<br/>
-
 ---
 
 <br/>
 
-<!-- Philosophy -->
-### 💭 Philosophy
+### PHILOSOPHY
 
 <br/>
 
@@ -39,8 +30,7 @@
 
 <br/>
 
-<!-- Tech Stack -->
-### 🛠 Tech Stack
+### TECH STACK
 
 <br/>
 
@@ -53,7 +43,7 @@
 |:---:|:---|
 | **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
-| **AI/ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black) |
 | **Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=flat-square&logo=qdrant&logoColor=white) |
 
@@ -64,33 +54,28 @@
 
 <br/>
 
-<!-- Projects -->
-### 📂 Projects
+### PROJECTS
 
 <br/>
 
-<!-- PROMTREE -->
 <table>
 <tr>
-<td width="300">
-<img src="./images/PROMTREE.png" alt="PROMTREE" width="280"/>
+<td width="300" align="center">
+<img src="./images/PROMTREE.png" alt="PROMTREE" width="260"/>
 </td>
-<td>
+<td width="500">
 
-#### 🌳 PROMTREE
-**RAG 기반 물성 정보 추출 시스템**
+**PROMTREE**  
+RAG 기반 물성 정보 추출 시스템
 
-`2025.10 - 11` · `삼성전자 생산기술연구소 연계`
+<sub>2025.10 - 11 | 삼성전자 생산기술연구소 연계</sub>
 
 수천 개의 PDF에서 물성 정보를 자동 추출하는 시스템.  
 자체 Parser + Document Layout Model + RAG 챗봇 구축.
 
-**Role:** `AI` `Backend`  
-**Tech:** `FastAPI` `Qdrant` `YOLO` `Claude API`
+`AI` `Backend` | FastAPI, Qdrant, YOLO, Claude API
 
-> 💡 *"99%의 자동화와 1%의 인간 검증이 100%의 자동화보다 현실적입니다."*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Yoo-SeungHyeon/PROMTREE)
+[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/Yoo-SeungHyeon/PROMTREE)
 
 </td>
 </tr>
@@ -98,28 +83,24 @@
 
 <br/>
 
-<!-- DAILYPET -->
 <table>
 <tr>
-<td width="300">
-<img src="./images/DAILYPET.png" alt="DAILYPET" width="280"/>
+<td width="300" align="center">
+<img src="./images/DAILYPET.png" alt="DAILYPET" width="260"/>
 </td>
-<td>
+<td width="500">
 
-#### 🐾 DAILYPET
-**펫 건강 이상 탐지 & 금융상품 추천**
+**DAILYPET**  
+펫 건강 이상 탐지 및 금융상품 추천 서비스
 
-`2025.09` · `🏆 SSAFY 특화 프로젝트 우수상 (2등)`
+<sub>2025.09 | SSAFY 특화 프로젝트 우수상 (2등)</sub>
 
 일상 데이터에서 반려동물 건강 이상 신호를 조기 탐지.  
 Isolation Forest + IQR 하이브리드로 Cold Start 해결.
 
-**Role:** `AI` `Infra` `PM`  
-**Tech:** `FastAPI` `AWS` `Isolation Forest`
+`AI` `Infra` `PM` | FastAPI, AWS, Isolation Forest
 
-> 💡 *"좋은 AI 모델보다 좋은 데이터 설계가 먼저입니다."*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Yoo-SeungHyeon/DAILYPET)
+[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/Yoo-SeungHyeon/DAILYPET)
 
 </td>
 </tr>
@@ -127,28 +108,24 @@ Isolation Forest + IQR 하이브리드로 Cold Start 해결.
 
 <br/>
 
-<!-- CDD -->
 <table>
 <tr>
-<td width="300">
-<img src="./images/CDD.png" alt="CDD" width="280"/>
+<td width="300" align="center">
+<img src="./images/CDD.png" alt="CDD" width="260"/>
 </td>
-<td>
+<td width="500">
 
-#### 🚁 CDD (Crack Detection Drone)
-**드론 기반 실시간 균열 감지**
+**CDD (Crack Detection Drone)**  
+드론 기반 실시간 균열 감지 시스템
 
-`2025.07 - 08` · `🏆 SSAFY 공통 프로젝트 우수상 (3등)`
+<sub>2025.07 - 08 | SSAFY 공통 프로젝트 우수상 (3등)</sub>
 
-온디바이스 AI로 실시간 균열 감지.  
+온디바이스 AI로 실시간 균열 감지 및 3D 기록.  
 Jetson Orin Nano + LiDAR로 50ms 지연, 50fps 달성.
 
-**Role:** `AI` `Infra` `Embedded`  
-**Tech:** `YOLO` `RTSP` `LiDAR` `AWS`
+`AI` `Infra` `Embedded` | YOLO, RTSP, LiDAR, AWS
 
-> 💡 *"제한된 자원에서 최선의 트레이드오프를 찾는 것이 진짜 엔지니어링입니다."*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/SSAFY-CDD)
+[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/SSAFY-CDD)
 
 </td>
 </tr>
@@ -161,16 +138,31 @@ Jetson Orin Nano + LiDAR로 50ms 지연, 50fps 달성.
 
 <br/>
 
-<!-- About -->
-### 👤 About
+### ABOUT
 
 <br/>
 
-| | |
-|:---:|:---|
-| **🎓 Education** | 영남대학교 산업공학과 & 컴퓨터공학과 복수전공 (2021-2025)<br/>삼성 청년 SW 아카데미 (SSAFY) 13기 (2025) |
-| **🏆 Awards** | 고용노동부 장관상 - SSAFY 우수 수료 (2025.12)<br/>삼성전자 우수상 (2등) - 특화 프로젝트 (2025.09)<br/>삼성전자 우수상 (3등) - 공통 프로젝트 (2025.08)<br/>삼성전자 성적 우수상 (2등) - SSAFY 13기 (2025.05) |
-| **📜 Certs** | SSAFY SW역량테스트 B형 (Pro) · 데이터분석기사<br/>SQLD · ADsP · OPIc IM1 |
+**Education**
+
+영남대학교 산업공학과 & 컴퓨터공학과 복수전공 · 2021 - 2025  
+삼성 청년 SW 아카데미 (SSAFY) 13기 · 2025
+
+<br/>
+
+**Awards**
+
+| Date | Award | Organization |
+|:---:|:---|:---:|
+| 2025.12 | 고용노동부 장관상 · SSAFY 우수 수료 | 고용노동부 |
+| 2025.09 | 우수상 (2등) · 특화 프로젝트 | 삼성전자 |
+| 2025.08 | 우수상 (3등) · 공통 프로젝트 | 삼성전자 |
+| 2025.05 | 성적 우수상 (2등) · SSAFY 13기 | 삼성전자 |
+
+<br/>
+
+**Certifications**
+
+SSAFY SW역량테스트 B형 (Pro) · 데이터분석기사 · SQLD · ADsP · OPIc IM1
 
 <br/>
 <br/>
@@ -179,8 +171,7 @@ Jetson Orin Nano + LiDAR로 50ms 지연, 50fps 달성.
 
 <br/>
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
+### GITHUB STATS
 
 <br/>
 
@@ -204,8 +195,7 @@ Jetson Orin Nano + LiDAR로 50ms 지연, 50fps 달성.
 
 <br/>
 
-<!-- Contact -->
-### 📬 Contact
+### CONTACT
 
 <br/>
 
@@ -213,8 +203,10 @@ Jetson Orin Nano + LiDAR로 50ms 지연, 50fps 달성.
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📧_effort--result@naver.com-0078D4?style=for-the-badge)](mailto:effort-result@naver.com)
-[![Phone](https://img.shields.io/badge/📱_010--9386--9428-25D366?style=for-the-badge)](tel:010-9386-9428)
+
+[![Blog](https://img.shields.io/badge/Blog-shyo2.com-11B48A?style=for-the-badge&logo=velog&logoColor=white)](https://www.shyo2.com)
+[![Email](https://img.shields.io/badge/effort--result@naver.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:effort-result@naver.com)
+[![Phone](https://img.shields.io/badge/010--9386--9428-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:010-9386-9428)
 
 <br/>
 <br/>
