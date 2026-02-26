@@ -1,12 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1a1a2e,50:16213e,100:0f3460&text=Seunghyeon%20Yoo&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=모으고%20가공하고%20만드는%20개발자&descSize=20&descAlignY=55&animation=fadeIn"/>
-
-<br/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=500&size=22&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=%22%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EC%A0%95%EC%9D%98%ED%95%98%EA%B3%A0%2C+%ED%95%B4%EA%B2%B0+%EB%B0%A9%EB%B2%95%EC%9D%84+%EC%B0%BE%EA%B3%A0%2C;%EA%B7%B8+%EA%B3%BC%EC%A0%95%EC%97%90%EC%84%9C+AI%EC%99%80+%ED%98%91%EC%97%85%ED%95%A9%EB%8B%88%EB%8B%A4.%22" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1a1a2e,50:16213e,100:0f3460&text=Seunghyeon%20Yoo&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=AI를%20반만%20믿는%20개발자&descSize=20&descAlignY=55&animation=fadeIn"/>
 
 <br/>
 <br/>
