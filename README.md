@@ -1,22 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1a1a2e,50:16213e,100:0f3460&text=Seunghyeon%20Yoo&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=AI를%20반만%20믿는%20개발자&descSize=20&descAlignY=55&animation=fadeIn"/>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-### PHILOSOPHY
-
-<br/>
-
-> *"AI는 나의 도구이자 동료입니다.*  
-> *하지만 문제를 정의하고, 방향을 정하고,*  
-> *책임지는 것은 언제나 '나'입니다."*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1a1a2e,50:16213e,100:0f3460&text=Seunghyeon%20Yoo&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=안녕하세요.%20유승현입니다.&descSize=20&descAlignY=55&animation=fadeIn"/>
 
 <br/>
 <br/>
@@ -36,9 +21,9 @@
 
 | Category | Technologies |
 |:---:|:---|
-| **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
 | **Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=flat-square&logo=qdrant&logoColor=white) |
 
@@ -157,7 +142,7 @@ Jetson Orin Nano + LiDAR로 50ms 지연, 50fps 달성.
 
 **Certifications**
 
-SSAFY SW역량테스트 B형 (Pro) · 데이터분석기사 · SQLD · ADsP · OPIc IM1
+SSAFY SW역량테스트 B형 (Pro) · 데이터분석기사 · SQLD · ADsP · TOEIC Speaking IM3
 
 <br/>
 <br/>
@@ -188,12 +173,6 @@ SSAFY SW역량테스트 B형 (Pro) · 데이터분석기사 · SQLD · ADsP · O
 
 <br/>
 
-**다음 이야기를 함께 써 내려갈 준비가 되셨나요?**
-
-<br/>
-
-
-[![Blog](https://img.shields.io/badge/Blog-shyo2.com-11B48A?style=for-the-badge&logo=velog&logoColor=white)](https://www.shyo2.com)
 [![Email](https://img.shields.io/badge/effort--result@naver.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:effort-result@naver.com)
 
 <br/>
