@@ -125,7 +125,7 @@ Jetson Orin Nano + LiDAR로 50ms 지연, 50fps 달성.
 **Education**
 
 영남대학교 통계학과 & 컴퓨터공학과 복수전공 · 2021 - 2025  
-삼성 청년 SW 아카데미 (SSAFY) 13기 · 2025
+삼성 청년 SW AI 아카데미 (SSAFY) 13기 · 2025
 
 <br/>
 
@@ -142,7 +142,7 @@ Jetson Orin Nano + LiDAR로 50ms 지연, 50fps 달성.
 
 **Certifications**
 
-SSAFY SW역량테스트 B형 (Pro) · 데이터분석기사 · SQLD · ADsP · TOEIC Speaking IM3
+삼성 SW역량테스트 B형 (Pro) · 빅데이터분석기사 · SQLD · ADsP · TOEIC Speaking IM3
 
 <br/>
 <br/>
